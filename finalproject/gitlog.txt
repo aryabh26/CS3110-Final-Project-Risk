@@ -1,0 +1,315 @@
+commit cabe7ebd0a0d109c7ce97fc2c736ceccc64a10d1
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu May 16 21:33:55 2024 -0400
+
+    c
+
+commit 5dbdef8d3aaeb2dde9e8adea7638d83785aa1e73
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu May 16 21:28:03 2024 -0400
+
+    Testing
+
+commit 791b9d95ee1a4148673ce6074df525ed2bc6b4bd
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu May 16 20:06:27 2024 -0400
+
+    a
+
+commit 737a3ab6fca7be2cd8790f5194e43f501da39fe7
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu May 16 20:04:36 2024 -0400
+
+    temp and mli
+
+commit 9abd8b51e26e91acd675288b5267ea3ac9b205c6
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu May 16 11:35:26 2024 -0400
+
+    Added more specifications
+
+commit 98a3288490265e53f82b6f94fd554fc499094ea6
+Merge: 1b36cc1 1315e27
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu May 16 11:24:43 2024 -0400
+
+    Added specifications and AF/RI
+
+commit 1b36cc1003c882eb4cf80f19c168b50e314ecd3d
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu May 16 11:10:08 2024 -0400
+
+    Specs
+
+commit 1315e27870d4836c4d5eb47fdbe2d56757684626
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Thu May 16 10:57:46 2024 -0400
+
+    added specs to turn.mli
+
+commit 0da849c90c5992c7a92a5d29fe58a13ad01cef5c
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Thu May 16 10:51:51 2024 -0400
+
+    merged files
+
+commit 98c7feedbf99191ad90601309a2c45a823ebd6cb
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Tue May 14 13:22:19 2024 -0400
+
+    Touchup Work (Install.txt,ms2.yaml)
+    -Updated INSTALL.txt
+    -Fix error in ms2.yaml
+    -Edited specifications
+
+commit dd11ed09b900c1b29d24a482ccbd8d26803d3272
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Tue May 14 12:27:53 2024 -0400
+
+    Warning handling (main dune file)
+    -Removed visible flags
+    -Removed duplicate flags from build
+
+commit e1fa00b0ac7407b09ceb84e3a1ab06cf21d1af1a
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Tue May 14 12:24:54 2024 -0400
+
+    Error Handling player.ml main.ml
+    -Stopped Bogue.Exit propogating to main
+    -Put player number request in try catch
+
+commit 6a83060869a891d2ae42b51961cd59c27405b65d
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Tue May 14 02:59:53 2024 -0400
+
+    added game rules
+
+commit b0605d9a293f6871438b220fb63954240c6094d3
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Tue May 14 02:34:23 2024 -0400
+
+    Added game ending logic
+
+commit 5e203a7f162e4d89855d35e597c7e239f8e9f19f
+Merge: 786885f 61e24a7
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Mon May 13 22:53:29 2024 -0400
+
+    resolved merge conflict
+
+commit 786885fe3727b475fbcd0fe73ab2dbff132c658b
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Mon May 13 22:49:23 2024 -0400
+
+    minor changes commit
+
+commit 61e24a756a66561beb468d5bca2bf8b1f8dcb3ef
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Mon May 13 20:36:08 2024 -0400
+
+    Debugged BFS
+
+commit bb7a9f75ea0c80e11139c5994fd27ac0c04c1a72
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Mon May 13 15:30:18 2024 -0400
+
+    Added AF RI for states
+
+commit b335a8e62e52363e21fb36e1e1ed7bfd7babc062
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Mon May 13 15:19:31 2024 -0400
+
+    Cleaned up GUI and added specifications
+
+commit fe847bd82e4c05b8374810ca70d80c47d602ac9c
+Merge: b2d6545 bb9357e
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Mon May 13 14:47:24 2024 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit b2d654551add05df028912a4ed2f65bb1ceb44ef
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Mon May 13 14:47:14 2024 -0400
+
+    Implemented GUI
+
+commit bb9357ec938c59aa83d4463762f413e9d2bd9e48
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Fri May 10 23:29:56 2024 -0400
+
+    added attack logic
+
+commit b7a7c5e19092053cb9e2603d4b00ed4f42a00653
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Tue May 7 17:29:23 2024 -0400
+
+    overwrited lines included
+
+commit a8d06c0e429511a7286dfdeaedadf1cc78a70980
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Tue May 7 17:26:38 2024 -0400
+
+    including one more function
+
+commit 6bb4875d97038432134f2175a3defadc28d93272
+Merge: 4c9989c 9380d39
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Tue May 7 17:18:43 2024 -0400
+
+    Implemented fortify, troop calculations, auto country assignment, and main game loop
+
+commit 4c9989ccd97cf0a74a4373c677068e1773ff73dc
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Tue May 7 14:29:39 2024 -0400
+
+    a
+
+commit e7917bfb86be2ab82d3eed9a149c1d2455ae12d1
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Tue May 7 00:58:22 2024 -0400
+
+    Implemented fortify
+
+commit 9380d39a7d63a120c9ed784ee29ef654a5b9b028
+Author: Aryan Agarwal <aaa344@cornell.edu>
+Date:   Sun May 5 11:56:23 2024 -0400
+
+    added a few helpers, an mli, ...
+
+commit 11e2fc514844d776e63b8fb2c741a99cb2c54c5e
+Merge: 676c4be 2e08a89
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Sat May 4 18:36:54 2024 -0400
+
+    a
+
+commit 676c4be60230d72076d9bf7ec134db33561b86a8
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Sat May 4 18:24:35 2024 -0400
+
+    modified turn
+
+commit 2e08a89a304cd77c01bc110dc5cfec9572d83127
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Sat May 4 18:14:53 2024 -0400
+
+    Added functions to map and removed country unit
+
+commit 22ee3d9bd1353ab40ba3bb48662758fa155dbc48
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Sat May 4 17:34:05 2024 -0400
+
+    Fixed map?
+
+commit b3507a47d8efd6fe2fbc4182bc8395bda42a2d04
+Author: Aryan Agarwal <aaa344@cornell.edu>
+Date:   Thu Apr 25 17:42:28 2024 -0400
+
+    modified countries.txt, created a links file, implemented map DS.
+
+commit d618dcdc9c5c5d3185930efda1919533174cb10a
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Wed Apr 24 20:07:33 2024 -0400
+
+    Initial Placement implemented
+
+commit 12bb34efd39b0f8b155e0b647bf00bc65fb11cf6
+Merge: 6d4cc8a 9ea03b2
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Tue Apr 23 13:38:13 2024 -0400
+
+    a
+
+commit 6d4cc8a8e3d0846c890157fef5316d7b799ba547
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Tue Apr 23 13:28:06 2024 -0400
+
+    Implemented placing troops
+
+commit 9ea03b2cb3d519cc6c6f9ae892ff295b13d79ea8
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Thu Mar 28 23:43:30 2024 -0400
+
+    Added INSTALL file
+
+commit 41a3465352034480b438b727d52568db6fb4a084
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu Mar 28 17:34:41 2024 -0400
+
+    yaml file
+
+commit c1705fe3f78fb667500df323c3fc09e0a2199e8f
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu Mar 28 04:11:07 2024 -0400
+
+    Added functionality for choosing countries
+
+commit 166ac4c0430c3efc127eae772d07c3ae88a3d178
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Wed Mar 27 17:34:56 2024 -0400
+
+    Added compilation units
+
+commit 1d0b4ebc29707be687fc472cda5d4e7f03d56b05
+Merge: 5fa38ca dfce209
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Thu Mar 14 23:53:29 2024 -0400
+
+    fixed merge error
+
+commit 5fa38cadc50482b62353ca671a5c18328297cc68
+Author: Arya Bhandari <anb78@cornell.edu>
+Date:   Thu Mar 14 23:41:24 2024 -0400
+
+    my commit
+
+commit dfce2090cd967614de8592e1f8f2cf10f860293e
+Merge: 74e4c5a 1b6831c
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu Mar 14 23:31:22 2024 -0400
+
+    name
+
+commit 74e4c5afba6399d543935881ba263dc813fa6466
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu Mar 14 23:28:19 2024 -0400
+
+    name
+
+commit 1b6831c8560f3a78c26544a2be7d9bb7af25a655
+Author: Aryan <aaa344@cornell.edu>
+Date:   Thu Mar 14 23:19:23 2024 -0400
+
+    added name
+
+commit 3be9bdf5b7f61e6424e7674b7b3d4c0dcdc0f71c
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu Mar 14 22:49:48 2024 -0400
+
+    Initial commit
+
+commit e375d310f7235b17da11626976bef5856a59bcb3
+Merge: 40b5f6f 6c15e04
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu Mar 14 22:48:31 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:nr357/CS3110-Final-Project
+
+commit 40b5f6f7c60a412117572a1b1047257ee0a78742
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu Mar 14 22:47:27 2024 -0400
+
+    Initial commit
+
+commit e0ac0a7cd5dbcdbdb4236f5b193971544542ae30
+Author: Narayan Rueppel <nr357@cornell.edu>
+Date:   Thu Mar 14 22:44:36 2024 -0400
+
+    Initial commit
+
+commit 6c15e046fe0e3c3777f73da2202fceac79537d20
+Author: nr357 <nr357@cornell.edu>
+Date:   Thu Mar 14 22:42:51 2024 -0400
+
+    Initial commit

@@ -1,0 +1,13 @@
+Required packages: Bogue, Batteries, OUnit2, QCheck
+
+To install any of these packages, open terminal and run the command: 
+"opam install [package]". For example, to install Bogue run the command: 
+"opam install bogue"
+
+Note: Bogue will only operate correctly on an up to date OS. For example, if you
+are on Mac, Bogue will only run properly on Sonoma.
+
+
+To run the game, navigate to the directory "finalproject" and run the command 
+"dune exec bin/main.exe".
+

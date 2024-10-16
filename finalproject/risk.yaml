@@ -1,0 +1,28 @@
+---
+# Members of your group.
+group:
+  - name: Narayan Rueppel
+    netid: nr357
+  - name: Arya Bhandari
+    netid: anb78
+  - name: Aryan Agarwal
+    netid: aaa344
+# Your PM.
+pm:
+  name: Andy Pang
+  netid: cp487
+# Set to false if you don't want your gallery entry to be public.
+publish: false
+# Pithy title
+title: "Risk"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/nr357/CS3110-Final-Project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is to rebuild the classic board game RISK. It supports between 2-6 
+  players and allows players to place troops, move troops, and attack other 
+  players. The interface is designed to mimic the game board, with numbers and 
+  colors in each territory to indicate which player owns that space and how many 
+  troops there are. 

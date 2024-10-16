@@ -1,0 +1,89 @@
+Alaska, Kamchatka
+Kamchatka, Yakutsk
+Kamchatka, Irkutsk
+Kamchatka, Mongolia
+Kamchatka, Japan
+Japan, Mongolia
+Mongolia, China
+Siberia, Mongolia
+Siberia, Yakutsk
+Siberia, Irkutsk
+Yakutsk, Irkutsk
+Irkutsk, Mongolia
+Siberia, China
+Siberia, Ural
+China, Siam
+China, India
+Siam, India
+Siam, Indonesia
+Indonesia, Papua New Guinea
+Papua New Guinea, Eastern Australia
+Papua New Guinea, Western Australia
+Western Australia, Indonesia
+Eastern Australia, Western Australia
+China, Afghanistan
+Ural, Ukraine
+Ural, Afghanistan
+Ural, China
+India, Middle East
+India, Afghanistan
+Ukraine, Afghanistan
+Afghanistan, Middle East
+Madagascar, East Africa
+Madagascar, South Africa
+South Africa, East Africa
+South Africa, Congo
+Congo, East Africa
+Congo, North Africa
+North Africa, East Africa
+Egypt, North Africa
+Egypt, East Africa
+Middle East, East Africa
+Middle East, Egypt
+Middle East, Ukraine
+North Africa, Brazil
+Venezuela, Brazil
+Venezuela, Peru
+Peru, Brazil
+Peru, Argentina
+Brazil, Argentina
+Central America, Venezuela
+Central America, Eastern America
+Central America, Western America
+Western America, Eastern America
+Western America, Alberta
+Western America, Ontario
+Alberta, Ontario
+Eastern America, Ontario
+Eastern America, Quebec
+Ontario, Quebec
+Northwest America, Alberta
+Northwest America, Ontario
+Northwest America, Alaska
+Alaska, Alberta
+Greenland, Quebec
+Greenland, Ontario
+Greenland, Northwest America
+Iceland, Greenland
+Iceland, Scandinavia
+Iceland, Great Britain
+Great Britain, Scandinavia
+Great Britain, Western Europe
+Great Britain, Northern Europe
+Northern Europe, Western Europe
+Western Europe, Southern Europe
+Southern Europe, Northern Europe
+Scandinavia, Northern Europe
+Scandinavia, Ukraine
+Ukraine, Northern Europe
+Ukraine, Southern Europe
+Southern Europe, Egypt
+Southern Europe, North Africa
+Southern Europe, Middle East
+
+
+
+
+
+
+
